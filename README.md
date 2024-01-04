@@ -34,7 +34,6 @@ cd To-Do-App
 # Install dependencies
 npm install
 
-
 ## Usage
 
 # Start the development server
