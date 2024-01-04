@@ -9,7 +9,6 @@ A simple Todo List app created with React JS using `useState` and `useRef`. The 
 - [Installation](#installation)
 - [Usage](#usage)
 - [Contributing](#contributing)
-- [License](#license)
 
 ## About
 
@@ -35,5 +34,17 @@ cd To-Do-App
 # Install dependencies
 npm install
 
-# Run the Project
+
+## Usage
+
+# Start the development server
 npm run dev
+
+## Contributing
+Contributions are welcome! If you'd like to contribute to the project, follow these steps:
+
+Fork the project.
+Create a new branch (git checkout -b feature/your-feature).
+Commit your changes (git commit -am 'Add some feature').
+Push to the branch (git push origin feature/your-feature).
+Create a new Pull Request.
