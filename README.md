@@ -34,11 +34,13 @@ cd To-Do-App
 # Install dependencies
 npm install
 
+```
 ## Usage
-
+```
 # Start the development server
 npm run dev
 
+```
 ## Contributing
 Contributions are welcome! If you'd like to contribute to the project, follow these steps:
 
